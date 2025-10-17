@@ -1,10 +1,10 @@
-# 5.VERIFICATION-OF-NORTON-S-THEOREM
+##  5.VERIFICATION-OF-NORTON-S-THEOREM
 
-**AIM:**
+## AIM:
 
 To verify Norton’s theorem practically and theoretically for the given DC circuit.
 
-**APPARATUS REQUIRED:**
+## APPARATUS REQUIRED:
 
 1.	Regulated Power supply ( RPS)	(0-30 V)	1
 2.	Voltmeter	(0-30 V) MC	1
@@ -13,34 +13,22 @@ To verify Norton’s theorem practically and theoretically for the given DC circ
 5.	Bread board	---	1
 6.	Multimeter	---	1
 
-**THEORY:**
+## THEORY:
 
-**NORTON’S THEOREM:**
+## NORTON’S THEOREM:
 
 Norton’s theorem states that, ‘a linear two-terminal circuit can be replaced by an equivalent circuit consisting of a current source, IN (=Isc) in parallel with a resistor RN (= RTh), where IN (=Isc) is the short-circuit current through the load terminals and RN is the equivalent resistance at the load terminals when the independent sources are turned off.Norton’s Current, IN or Isc:
 It is the short-circuit current through the load terminals. i.e., IN = Isc
 
 Norton’s Resistance, RN:It is the look-back resistance across the load terminals when all the sources are replaced by their internal resistances. An ideal voltage source is replaced by short- circuiting as its internal resistance is zero. An ideal current source is replaced by open- circuiting as its internal resistance is infinity.
  
-**CIRCUIT DIAGRAM: VERIFICATION OF NORTON’S THEOREM**
+## CIRCUIT DIAGRAM AND TABULATION: 
+<img width="606" height="836" alt="image" src="https://github.com/user-attachments/assets/da30d9e8-1cb9-43d4-8fd6-6ba09ccb424d" />
+<img width="637" height="795" alt="image" src="https://github.com/user-attachments/assets/37da9f04-8578-4d7e-8f25-d34e44986113" />
+<img width="596" height="831" alt="image" src="https://github.com/user-attachments/assets/67336a71-7197-48d7-bb15-0150f28ef4eb" />
+<img width="612" height="867" alt="image" src="https://github.com/user-attachments/assets/e51073f1-f227-46a4-aa1e-e5415accbbc6" />
 
-**To measure IL**
-
-
-**To measure RTh or RN**
-
-
-
-**To measure IN or Isc**
-
- 
-**Thevenin’s equivalent circuit**
-
-
-**Norton’s equivalent circuit**
-
-
-**PROCEDURE:**
+## PROCEDURE:
 
 1.	Make the connections as per the Circuit Diagram:1
 
@@ -70,36 +58,10 @@ Norton’s Resistance, RN:It is the look-back resistance across the load termina
 
 12.	Theoretically verify the Norton’s theorem.
 
-**TABULAR COLUMN: 1**
-To measure I L
-
-Vi (volts)	IL (amps)
-
-**TABULAR COLUMN:2**
-
-To measure RTh or RN
-
-Vi (volts)	RTh (Ω)
-
-
-**TABULAR COLUMN:3**
-
-To measure IN or Isc
-
-Vi (volts)	IN (amps)
-	
-**MODEL CALCULATION:**
-
-Practical value of IL (from tabulation 1) =2.3mA
-
-**Verification of Norton’s theorem**
-
-IL = IN * RN / ( RN+ RL ) = 2.43mA
-
-Theoretical calculation of IL ,IN and RTh(RN) for the given circuit:
- 
-
-
-**RESULT:**
+## RESULT:
 
 Thus Thevenin’s and Norton’s theorem is verified practically and theoretically.
+
+## MARKS SPLIT UP:
+<img width="629" height="420" alt="image" src="https://github.com/user-attachments/assets/26019a81-513c-4d6b-b12e-5e65320609a3" />
+
